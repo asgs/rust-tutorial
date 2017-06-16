@@ -1,0 +1,6 @@
+[package]
+name = "variable-bindings"
+version = "0.1.0"
+authors = ["asgs <asgosa.eeegct@gmail.com>"]
+
+[dependencies]
