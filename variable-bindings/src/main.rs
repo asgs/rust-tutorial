@@ -51,7 +51,7 @@ fn main() {
     // println!("{}", z); // z is out-of scope here
     println!("{}{}", x, "; so accessing variables out of their scope will be an error.");
 
-    let x = "we've been shadowing the var x all along. shadowing is just a way to redeclare a variable name with same or different type";
+    let x = "we've been shadowing the var x all along. shadowing is just a way to redeclare a variable name with the same or a different type";
     println!("{}", x);
     let x : i32 = 4;
     println!("x as an i32 - {}", x);
