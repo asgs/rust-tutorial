@@ -1,5 +1,11 @@
 fn main() {
+    temp_conversion();
     fib();
+}
+
+fn temp_conversion() {
+    let c = 30.0;
+    println!("{} Celcius is equivalent to {} Fahrenheit.", c, (1.8 * c) + 32.0);
 }
 
 fn fib() {
