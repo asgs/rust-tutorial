@@ -1,0 +1,5 @@
+[package]
+name = "variable-shadowing"
+version = "0.1.0"
+authors = ["asgs <asgosa.eeegct@gmail.com>"]
+
